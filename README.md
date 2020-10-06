@@ -58,8 +58,8 @@ If you want to contribute, please read the <a href="https://github.com/Data-Scie
 ```
  
 ## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/blob/master/LICENSE.md)
 
-[![License] (http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/blob/master/LICENSE.md)
 
 <p align="center">
 	Made with :heart: by <a href="https://dscommunity.in">DS Community SRM</a>
