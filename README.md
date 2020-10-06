@@ -19,6 +19,13 @@ If you want to contribute, please read the <a href="https://github.com/Data-Scie
 - [ ]  Asymptotic notation
 - [ ]  Selection sort
 - [ ]  Insertion sort
+- [ ]  Recursive algorithms
+- [ ]  Towers of Hanoi
+- [ ]  Merge sort
+- [ ]  Quick sort
+- [ ]  Graph representation
+- [ ]  Breadth-first search
+- [ ]  Further learning
 
 <br>
 
