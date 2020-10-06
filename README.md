@@ -39,7 +39,7 @@ If you want to contribute, please read the <a href="https://github.com/Data-Scie
 ```bash
 < insert code >
 ```
-
+/**
 ## Contributors
 
 <table>
@@ -95,7 +95,7 @@ John Doe
 </td>
 </tr>
   </table>
-  
+**/  
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
