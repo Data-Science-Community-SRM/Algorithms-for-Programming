@@ -30,11 +30,11 @@ If you want to contribute, please read the <a href="https://github.com/Data-Scie
 <br>
 
 
-## Instructions to run
+## Resources 
 
 * Pre-requisites:
-	-  < insert pre-requisite >
-	-  < insert pre-requisite >
+	-  Learn Basic Language C, C++ or Python
+	-  Practice on online coding platforms (hackerrank, spoj, codechef, codeforces)
 
 * < directions to install > 
 ```bash
