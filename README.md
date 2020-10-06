@@ -53,7 +53,7 @@ If you want to contribute, please read the <a href="https://github.com/Data-Scie
 
 ## File structure
 
-  .
+  ```
     ├── Algorithm Name     
     │   ├── Notes                           
     │       ├── notes.md 
@@ -62,7 +62,7 @@ If you want to contribute, please read the <a href="https://github.com/Data-Scie
     |   ├──Medium or Hard Questions
     |       ├──medium-hard-questions.md  
     └── README.md
- 
+  ```
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/blob/master/LICENSE.md)
 
