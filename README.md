@@ -51,11 +51,17 @@ If you want to contribute, please read the <a href="https://github.com/Data-Scie
 - [ ] [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - Beginner's algorithms course with fun illustrations, based on the book Grokking Algorithms
 
 
-* < directions to execute >
+## File structure
 
-```bash
-< insert code >
-```
+  .
+    ├── Algorithm Name     
+    │   ├── Notes                           
+    │       ├── notes.md 
+    |   ├──Simple Questions
+    |       ├──basicquestion.md
+    |   ├──Medium or Hard Questions
+    |       ├──medium-hard-questions.md  
+    └── README.md
  
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/blob/master/LICENSE.md)
