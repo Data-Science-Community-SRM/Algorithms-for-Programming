@@ -11,7 +11,9 @@
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
 ## Preview
-- Add pictures or important highlights from the Project (if any)
+- A curated list of algorithms to learn and/or practice algorithms. Inspired by the curiosity for learning programming from scratch
+
+If you want to contribute, please read the contribution guidelines.
 ## Functionalities
 - [ ]  < insert functionality >
 - [ ]  < insert functionality >
