@@ -38,8 +38,6 @@ If you want to contribute, please read the <a href="https://github.com/Data-Scie
 
 * Online courses 
 
-*Free and High Quality Courses Online*
-
 * [Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) - The primary topics are: asymptotic ("Big-oh") notation, sorting and searching, divide and conquer, and randomized algorithms.
 * [Algorithms: Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) - The primary topics are: data structures, graph primitives, and their applications.
 * [Algorithms: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) - The primary topics are: greedy algorithms and dynamic programming.
