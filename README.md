@@ -15,16 +15,16 @@
 
 If you want to contribute, please read the <a href="https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/blob/master/contributing.md">contribution guidelines</a>.
 ## Topics
-- [ ]  Binary search
-- [ ]  Asymptotic notation
-- [ ]  Selection sort
-- [ ]  Insertion sort
-- [ ]  Recursive algorithms
-- [ ]  Towers of Hanoi
-- [ ]  Merge sort
-- [ ]  Quick sort
-- [ ]  Graph representation
-- [ ]  Breadth-first search
+- [ ]  [Binary search](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/tree/master/Binary%20Search)
+- [ ]  [Asymptotic notation](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/tree/master/Asymptotic%20notation)
+- [ ]  [Selection sort](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/tree/master/Selection%20sort)
+- [ ]  [Insertion sort](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/tree/master/Insertion%20sort)
+- [ ]  [Recursive algorithms](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/tree/master/Recursive%20algorithms)
+- [ ]  [Towers of Hanoi](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/tree/master/Towers%20of%20Hanoi)
+- [ ]  [Merge sort](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/tree/master/Merge%20sort)
+- [ ]  [Quick sort](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/tree/master/Quick%20sort)
+- [ ]  [Graph representation](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/tree/master/Graph%20representation)
+- [ ]  [Breadth-first search](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/tree/master/Breadth-first%20search)
 - [ ]  Further learning
 
 <br>
