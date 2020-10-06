@@ -37,7 +37,7 @@ If you want to contribute, please read the <a href="https://github.com/Data-Scie
 	-  Practice on online coding platforms (hackerrank, spoj, codechef, codeforces)
 
 * Online courses 
-```bash
+
 *Free and High Quality Courses Online*
 
 * [Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) - The primary topics are: asymptotic ("Big-oh") notation, sorting and searching, divide and conquer, and randomized algorithms.
@@ -51,7 +51,7 @@ If you want to contribute, please read the <a href="https://github.com/Data-Scie
 * [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - An easy and well explained introduction to algorithms.
 * [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - Python-based Algorithms course.
 * [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - Beginner's algorithms course with fun illustrations, based on the book Grokking Algorithms
-```
+
 
 * < directions to execute >
 
