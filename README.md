@@ -13,7 +13,7 @@
 ## Preview
 - A curated list of algorithms to learn and/or practice algorithms. Inspired by the curiosity for learning programming from scratch
 
-If you want to contribute, please read the contribution guidelines.
+If you want to contribute, please read the <a href="https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/blob/master/contributing.md">contribution guidelines</a>.
 ## Functionalities
 - [ ]  < insert functionality >
 - [ ]  < insert functionality >
