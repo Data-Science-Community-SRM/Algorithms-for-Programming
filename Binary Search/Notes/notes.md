@@ -32,6 +32,7 @@ Repeat this procedure recursively until Low > High. If at any iteration, we get 
 
 Implementation:
 
+```
 int binarySearch(int low,int high,int key)
 {
    while(low<=high)
@@ -52,6 +53,8 @@ int binarySearch(int low,int high,int key)
    }
    return -1;                //key not found
  }
+```
+
 Time complexity
 
 As we dispose off one part of the search case during every step of binary search, and perform the search operation on the other half, this results in a worst case time complexity of .
