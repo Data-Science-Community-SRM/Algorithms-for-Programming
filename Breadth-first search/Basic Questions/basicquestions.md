@@ -1,2 +1,2 @@
-## basic questions
-- ##### [Given two sorted arrays. You have to merge them such that resultant array is also sorted.](01.%20Breadth-first-search.cpp)
+## Basic questions
+- ##### [Perform BFS on a graph and print the vertices.](01.%20Breadth-first-search.cpp)
