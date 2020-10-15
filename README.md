@@ -1,3 +1,7 @@
+
+[![HitCount](http://hits.dwyl.com/nehanagle/Algorithms-for-Programming.svg)](http://hits.dwyl.com/nehanagle/Algorithms-for-Programming)
+
+
 <p align="center">
 <a href="https://dscommunity.in">
 	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
