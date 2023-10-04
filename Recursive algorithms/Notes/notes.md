@@ -8,28 +8,24 @@
     It usually results in a bit higher complexity so it should be used only when no other options seem viable. It can also result in crashes if not used properly i.e no proper condition is applied for stopping the function call.
 
 
-# Some examples where recursion can be used are:
-  1. Factorial
-  2. Fibonacci Sequence
+## Some examples where recursion can be used are:
     
+ 1. Factorial:
 
-
-# 1. Factorial:
-
-    
+    ```c
     int factorial(int a){
     return (a == 1 || a == 0) ? 1 : a * factorial(a - 1);
     }
 
-    
+    ```
 
+ 2. Fibonacci Sequence:
 
-# 2. Fibonacci Sequence:
-
-    
+    ```c
     int fibonacci(int a){
     return (n == 0 || n == 1) ? n : fibonacci(n - 1) + fibonacci(n - 2);
     }
+    ```
     
     
 
