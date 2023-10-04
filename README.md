@@ -29,6 +29,7 @@ If you want to contribute, please read the <a href="https://github.com/Data-Scie
 - [ ]  [Quick sort](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/tree/master/Quick%20sort)
 - [ ]  [Graph representation](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/tree/master/Graph%20representation)
 - [ ]  [Breadth-first search](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming/tree/master/Breadth-first%20search)
+- [ ]  [Depth-First Search](https://github.com/aryanraj2713/Algorithms-for-Programming/tree/master/Depth-First%20Search)
 - [ ]  Further learning
 
 
