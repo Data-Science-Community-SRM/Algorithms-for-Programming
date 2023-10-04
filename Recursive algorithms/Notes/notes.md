@@ -16,16 +16,22 @@
 
 # 1. Factorial:
 
-  * int factorial(int a){
+    
+    int factorial(int a){
     return (a == 1 || a == 0) ? 1 : a * factorial(a - 1);
     }
+
+    
 
 
 # 2. Fibonacci Sequence:
 
-  * int fibonacci(int a){
+    
+    int fibonacci(int a){
     return (n == 0 || n == 1) ? n : fibonacci(n - 1) + fibonacci(n - 2);
     }
+    
+    
 
 
 
